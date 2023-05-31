@@ -1,4 +1,2 @@
 # How to run:
-npm i
-_
-npm run start
+npm i && npm run start
